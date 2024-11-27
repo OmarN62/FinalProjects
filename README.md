@@ -5,3 +5,6 @@ print("yeah - i know")
 but what would sora do?
 
 KEEP GOING
+
+update : fuck it. the villains always win. here's to the win.YEAH YEAH YEAH YEAH YEAH
+im going to be the best fucking man at 30. 40. 50. 60. or ill die trying.
