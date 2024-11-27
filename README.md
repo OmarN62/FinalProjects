@@ -8,3 +8,4 @@ KEEP GOING
 
 update : fuck it. the villains always win. here's to the win.YEAH YEAH YEAH YEAH YEAH
 im going to be the best fucking man at 30. 40. 50. 60. or ill die trying.
+update 2: in reality: this is my rebirth. here goes 
