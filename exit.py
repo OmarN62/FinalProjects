@@ -5,4 +5,4 @@ while True:
     response = input()
     if response == "not true":
         sys.exit()
-    print("You typed" + response)
+    print("You typed" + response + ".")
